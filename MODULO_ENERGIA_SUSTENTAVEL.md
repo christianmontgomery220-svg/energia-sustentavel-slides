@@ -5,7 +5,7 @@
 
 ## 1. Visão Geral e Propósito
 
-O módulo **Energia Sustentável** será um novo módulo de alto nível dentro do Anonymo AI, posicionado dentro da categoria **Educacional**. Seu propósito é oferecer um espaço de aprendizado e reflexão sobre a transição energética, conectando dados técnicos com as dimensões psicológicas e existenciais do tema.
+O módulo **Energia Sustentável** será um novo módulo de alto nível, **independente e autocontido**, dentro do Anonymo AI. Ele será posicionado na categoria **Educacional**, mas funcionará como uma experiência à parte, parte, com seu próprio escopo e fronteiras. Seu propósito é oferecer um espaço de aprendizado e reflexão sobre a transição energética, conectando dados técnicos com as dimensões psicológicas e existenciais do tema.
 
 O módulo não tem como objetivo convencer o usuário de uma visão específica, mas sim fornecer um mapa estruturado de informações para que ele possa formar sua própria compreensão, observando seus próprios padrões de reação ao conteúdo.
 
