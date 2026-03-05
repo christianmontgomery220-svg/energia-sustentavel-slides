@@ -1,0 +1,156 @@
+{
+  "project_info": {
+    "title": "Título: O Futuro da Energia Sustentável",
+    "created": 1772743277.5838852,
+    "last_updated": 1772743550.1743352,
+    "total_slides": 12
+  },
+  "slides": [
+    {
+      "id": "slide_1_title",
+      "state": "edited",
+      "pageNum": 1
+    },
+    {
+      "id": "slide_2_inflexion",
+      "state": "edited",
+      "pageNum": 2
+    },
+    {
+      "id": "slide_3_solar_revolution",
+      "state": "edited",
+      "pageNum": 3
+    },
+    {
+      "id": "slide_4_batteries_storage",
+      "state": "edited",
+      "pageNum": 4
+    },
+    {
+      "id": "slide_5_electrification",
+      "state": "edited",
+      "pageNum": 5
+    },
+    {
+      "id": "slide_6_green_hydrogen",
+      "state": "edited",
+      "pageNum": 6
+    },
+    {
+      "id": "slide_7_ai_grid",
+      "state": "edited",
+      "pageNum": 7
+    },
+    {
+      "id": "slide_8_infrastructure",
+      "state": "edited",
+      "pageNum": 8
+    },
+    {
+      "id": "slide_9_socioeconomic",
+      "state": "edited",
+      "pageNum": 9
+    },
+    {
+      "id": "slide_10_investment",
+      "state": "edited",
+      "pageNum": 10
+    },
+    {
+      "id": "slide_11_vision_2030",
+      "state": "edited",
+      "pageNum": 11
+    },
+    {
+      "id": "slide_12_closing",
+      "state": "edited",
+      "pageNum": 12
+    }
+  ],
+  "outline": [
+    {
+      "id": "slide_1_title",
+      "title": "Título: O Futuro da Energia Sustentável",
+      "summary": "Slide de título apresentando o tema da transição energética acelerada e seus impulsionadores.",
+      "image_plan": "Use a suitable image if needed",
+      "slide_template_key": ""
+    },
+    {
+      "id": "slide_2_inflexion",
+      "title": "O Ponto de Inflexão Energético",
+      "summary": "Análise do momento crítico em 2024-2025 onde renováveis atingem 30% e competem em custo.",
+      "image_plan": "Use a suitable image if needed",
+      "slide_template_key": ""
+    },
+    {
+      "id": "slide_3_solar_revolution",
+      "title": "A Revolução Solar em Escala",
+      "summary": "Crescimento da energia solar, redução de custos e novas tecnologias fotovoltaicas.",
+      "image_plan": "Use a suitable image if needed",
+      "slide_template_key": ""
+    },
+    {
+      "id": "slide_4_batteries_storage",
+      "title": "Armazenamento em Baterias",
+      "summary": "O papel crítico das baterias e o crescimento da capacidade de armazenamento global.",
+      "image_plan": "Use a suitable image if needed",
+      "slide_template_key": ""
+    },
+    {
+      "id": "slide_5_electrification",
+      "title": "Eletrificação dos Transportes e Setores",
+      "summary": "Impacto da eletrificação de veículos e aquecimento na demanda de energia limpa.",
+      "image_plan": "Use a suitable image if needed",
+      "slide_template_key": ""
+    },
+    {
+      "id": "slide_6_green_hydrogen",
+      "title": "Hidrogênio Verde - Combustível do Futuro",
+      "summary": "Potencial do hidrogênio verde para descarbonizar indústria pesada e transporte.",
+      "image_plan": "Use a suitable image if needed",
+      "slide_template_key": ""
+    },
+    {
+      "id": "slide_7_ai_grid",
+      "title": "Redes Inteligentes Potencializadas por IA",
+      "summary": "Como a IA otimiza redes elétricas e equilibra oferta e demanda em tempo real.",
+      "image_plan": "Use a suitable image if needed",
+      "slide_template_key": ""
+    },
+    {
+      "id": "slide_8_infrastructure",
+      "title": "O Gargalo da Infraestrutura",
+      "summary": "Desafios de transmissão e necessidade de investimentos em modernização da rede.",
+      "image_plan": "Use a suitable image if needed",
+      "slide_template_key": ""
+    },
+    {
+      "id": "slide_9_socioeconomic",
+      "title": "Impactos Socioeconômicos da Transição",
+      "summary": "Criação de empregos, requalificação e benefícios para consumidores.",
+      "image_plan": "Use a suitable image if needed",
+      "slide_template_key": ""
+    },
+    {
+      "id": "slide_10_investment",
+      "title": "Investimento e Financiamento",
+      "summary": "Fluxos de capital, ESG e instrumentos financeiros impulsionando a transição.",
+      "image_plan": "Use a suitable image if needed",
+      "slide_template_key": ""
+    },
+    {
+      "id": "slide_11_vision_2030",
+      "title": "Visão 2030 - Um Mundo Energeticamente Limpo",
+      "summary": "Cenário projetado para 2030 com predominância de renováveis e redes resilientes.",
+      "image_plan": "Use a suitable image if needed",
+      "slide_template_key": ""
+    },
+    {
+      "id": "slide_12_closing",
+      "title": "Perguntas e Contato",
+      "summary": "Encerramento, reflexão final e espaço para perguntas.",
+      "image_plan": "Use a suitable image if needed",
+      "slide_template_key": ""
+    }
+  ]
+}
