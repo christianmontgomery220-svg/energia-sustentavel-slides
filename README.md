@@ -1,3 +1,8 @@
+Part of the **TCF / TFB + Anonymo Ecosystem**  
+System hub: https://github.com/christianmontgomery220-svg/tcf-anonymo-ecosystem
+
+---
+
 # O Futuro da Energia Sustentável (2025-2030)
 ## Material de Apresentação e Estudo
 
